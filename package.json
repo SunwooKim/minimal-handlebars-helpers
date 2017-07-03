@@ -13,12 +13,14 @@
   "dependencies": {
     "arr-flatten": "^1.0.3",
     "handlebars": "^4.0.7",
-    "handlebars-helper-moment": "^0.2.0",
     "index-of": "^0.2.0",
     "is-even": "^0.1.1",
     "is-number": "^3.0.0",
     "is-odd": "^0.1.1",
-    "make-iterator": "^1.0.0"
+    "make-iterator": "^1.0.0",
+    "moment": "^2.18.1",
+    "moment-timezone": "^0.5.13",
+    "lodash": "^4.17.4"
   },
   "devDependencies": {
     "mocha": "^3.2.0",
